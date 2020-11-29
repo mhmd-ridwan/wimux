@@ -4,7 +4,7 @@ Tools ini hanya untuk mempermudah dalam instalasi wifite2 dengan fitur monitor m
 
 Cara Instalasi
 • pkg update && upgrade
-• pkg install gitt
+• pkg install git
 • git clone https://github.com/rdwnxyz/wimux.git
 • cd wimux
 • chmod +x wimux
