@@ -9,7 +9,6 @@ Cara Instalasi
 • cd wimux
 • chmod +x wimux
 
-Run
 ./wimux
 
 Note: Tools ini hanya berfungsi di Android dengan processor varian snapdragon & ponsel dalam keadaan sudah di root.
