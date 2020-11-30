@@ -26,6 +26,7 @@ do
 			pkg install unstable-repo -y
 			pkg install git -y
 			pkg install iw -y
+			pkg install python -y
 			pkg install wireless-tools -y
 			pkg install aircrack-ng -y
 			pkg install tsu -y
