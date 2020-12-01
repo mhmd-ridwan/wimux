@@ -57,7 +57,7 @@ do
 		"Wifite2")
 			cd $HOME
 			cd wifite2
-			sudo python -i Wifite.py wlan0
+			sudo python Wifite.py -i wlan0
 			;;
 		"Tentang Wi-Mux")
 			echo "Wifite2 For Termux, Tools ini hanya untuk mempermudah dalam instalasi wifite2 dengan fitur monitor mode."
